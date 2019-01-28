@@ -33,7 +33,7 @@ AppAsset::register($this);
         <a href="/" id="logo" title="Diana’s jewelry">Diana’s jewelry</a>
         <div class="right-links">
             <ul>
-                <li><a href="cart.html"><span class="ico-products"></span>Количество: 3 Сумма: $4 500.00</a></li>
+                <li><a href="cart.html"><span class="ico-products"></span>Количество: 3. Сумма: 4 500 ₽.</a></li>
                 <li><a href="#"><span class="ico-account"></span>Аккаунт</a></li>
                 <li><a href="#"><span class="ico-signout"></span>Выйти</a></li>
             </ul>
