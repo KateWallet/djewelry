@@ -38,4 +38,9 @@ class Good extends ActiveRecord
         return $catGoods;
     }
 
+    public function getOneGood($name)
+    {
+        return Good::find()->where(['link_name' => $name])->one();
+    }
+
 }

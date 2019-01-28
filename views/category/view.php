@@ -2,6 +2,18 @@
     <?= \app\widgets\MenuWidget::widget() ?>
 </div>
 
+<div id="breadcrumbs">
+    <div class="container">
+        <ul>
+
+            <li><a href="/">На главную</a></li>
+<!--            <li> --><?//= $category['category_name'] ?><!-- </li>-->
+        </ul>
+    </div>
+    <!-- / container -->
+</div>
+<!-- / body -->
+
 <div id="body">
     <div class="container">
 
